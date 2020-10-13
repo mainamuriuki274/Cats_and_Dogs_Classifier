@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cats_and_Dogs_Classifier</string>
+    <string name="take_picture">Take Picture</string>
+</resources>
